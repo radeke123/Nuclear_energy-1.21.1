@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 250,
+  "experience": 0.8,
+  "group": "uranium",
+  "ingredient": {
+    "item": "nuclearenergy:deepslate_uranium_ore"
+  },
+  "result": {
+    "count": 1,
+    "id": "nuclearenergy:uranium"
+  }
+}

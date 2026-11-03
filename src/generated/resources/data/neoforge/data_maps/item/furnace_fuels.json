@@ -1,0 +1,7 @@
+{
+  "values": {
+    "nuclearenergy:uranium": {
+      "burn_time": 200000
+    }
+  }
+}

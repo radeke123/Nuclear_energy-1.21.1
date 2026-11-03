@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "nuclearenergy:block/uranium_ore"
+    }
+  }
+}
